@@ -1,1 +1,1 @@
-do_token = "your_do_personal_access_token"
+do_token = "your_do_access_token"
